@@ -3,7 +3,6 @@
     "id": "webhook",
     "execute-command": "ls",
     "response-message": "executed ls",
-    "command-working-directory": "/hooks-test",
     "response-headers":
     [
       {
